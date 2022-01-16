@@ -31,7 +31,7 @@ Olá sou a Thamis  👋
     <a href="https://www.linkedin.com/in/thamis-rissi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href = "http://api.whatsapp.com/send?1=pt_BR&phone=5504398558400"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thamisrissi/thamisrissi/blob/output/github-contribution-grid-snake.svg)
    
   </div>
   
