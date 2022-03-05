@@ -1,5 +1,5 @@
 Olá sou a Thamis  👋
-- 📚 Estou estudando Desenvolvimento Front-End ...
+- 📚 Estou estudando programação ...
 
 
 <div align="center">
